@@ -80,5 +80,3 @@ En conjunt, el projecte evidencia que per entendre la mobilitat interregional a 
 
 ---
 
-## 7 Llicència i crèdits
-
