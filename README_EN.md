@@ -1,15 +1,15 @@
 
-# Interregional Mobility and Gender in Spain
+## Interregional Mobility and Gender in Spain
 
 ---
 
-## Short Description
+### Short Description
 
 **Analysis of interregional mobility in Spain from a gender perspective.**
 
 ---
 
-## Project Summary
+### Project Summary
 
 This project analyzes interregional mobility decisions in Spain from a gender perspective, using data from the **Survey on Attitudes and Expectations of Spatial Mobility of the Active Population** (Vidal & Busqueta, 2020, N = 3,889), collected in 2019 among individuals aged 18–55 who were employed or seeking work.
 
@@ -40,7 +40,7 @@ Overall, the project demonstrates that understanding interregional mobility in S
 
 ---
 
-## 3️⃣ Data
+### 3 Data
 
 - **Source:** Vidal & Busqueta Survey, 2020  
 - **Sample size:** N = 3,889  
@@ -49,3 +49,30 @@ Overall, the project demonstrates that understanding interregional mobility in S
 - Includes questions on mobility decisions, self-perceived obstacles, and sociodemographic characteristics.
 
 ---
+
+### 4 Repository Structure
+
+- \data -> data files (real or simulated)
+- \scripts -> R scripts for data cleaning, descriptive analysis and modelling
+- \output -> outputs, plots, HTML files
+- README_EN.md -> this document
+
+---
+
+### 5 How to use
+
+- Open the `.Rmd` file with **RStudio** and **Knit** to generate HTML or PDF.  
+- R ≥ 4.2 with packages: `tidyverse`, `dplyr`, `ggplot2`, `margins`, `nnet` (and others as required).
+
+---
+
+### 6 Key Findings
+
+
+---
+
+### 7 License & Credits
+
+- **Code:** MIT License  
+- **Data:** Vidal & Busqueta, 2020  
+- References included within the project
